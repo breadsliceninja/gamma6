@@ -9,8 +9,8 @@ Difficulty: Kaizo (Beginner)
 <img src="screenshots/GAMMA6-240308-153304.png" alt="screenshot" width="500"/>
 
 ## Running
-1. Install a SNES emulator of choice.
-2. Run `GAMMA6.smc`.
+1. Install a SNES emulator of choice ([Snes9X](https://www.smwcentral.net/?p=section&a=details&id=33740) is a good choice for Windows).
+2. Download and run `GAMMA6.smc`.
 
 ## Credits
 - "Rain and Snow Animation" by HarvettFox96
