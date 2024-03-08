@@ -6,6 +6,8 @@ Difficulty: Kaizo (Beginner)
 
 5 exits so far.
 
+<img src="screenshots/GAMMA6-240308-153304.png" alt="screenshot" width="500"/>
+
 ## Running
 1. Install a SNES emulator of choice.
 2. Run `GAMMA6.smc`.
